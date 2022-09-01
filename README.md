@@ -1,0 +1,1 @@
+dotnet add package ChilkatDnCore --version 9.5.0.91
